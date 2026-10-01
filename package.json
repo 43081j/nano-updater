@@ -45,12 +45,12 @@
   },
   "devDependencies": {
     "@clack/prompts": "^1.8.1",
-    "@types/node": "^26.6.2",
+    "@types/node": "^26.6.3",
     "@typescript/native-preview": "^7.0.0-dev.20260509.2",
-    "@vitest/coverage-v8": "^5.0.1",
+    "@vitest/coverage-v8": "^5.0.2",
     "ansivision": "^0.4.0",
-    "oxfmt": "^0.69.0",
-    "oxlint": "^1.63.0",
+    "oxfmt": "^0.71.0",
+    "oxlint": "^1.86.0",
     "vitest": "^5.0.1"
   },
   "dependencies": {
